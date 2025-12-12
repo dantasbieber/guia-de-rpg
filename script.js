@@ -1,6 +1,6 @@
 try {
     const form = document.querySelector("#contato-form");
-    if (!form) return;
+    
 
     const nomeInput = form.querySelector("#nome");
     const assuntoSelect = form.querySelector("#assunto");
